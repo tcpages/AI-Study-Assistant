@@ -1,1 +1,1 @@
-# CodeCraftHub
+# AI Study Assistant
